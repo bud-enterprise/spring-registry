@@ -1,6 +1,9 @@
+server:
+  port: 8761
+
 spring:
   application:
     name: spring-registry
   cloud:
     config:
-      import: http://localhost:8888
+      endabled: false
