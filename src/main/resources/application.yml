@@ -6,4 +6,9 @@ spring:
     name: spring-registry
   cloud:
     config:
-      endabled: false
+      import: optional:configserver
+
+eureka:
+  client:
+    registry-with-eureka: false
+    fetch-registry: false
