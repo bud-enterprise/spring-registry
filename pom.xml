@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>pl.lab</groupId>
 	<artifactId>spring-registry</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>DEV-SNAPSHOT</version>
 	<name>spring-registry</name>
 	<description>Registry service for Spring Boot</description>
 	<url/>
